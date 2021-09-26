@@ -1,7 +1,9 @@
 YANP
 ====
 
-Notetaking plugin that supports recurring topics structure and customisable syntax.
+Notetaking plugin that supports recurring topics structure and customisable syntax.<br>
+
+YANP - Yes, Another Notetaking Plugin.
 
 -----
 

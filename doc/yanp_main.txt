@@ -1,0 +1,33 @@
+*yanp_main.txt* main doc page for YANP Vim plugin.
+*yanp*
+
+                          __   __ _    _   _ ____     ~
+                          \ \ / // \  | \ | |  _ \    ~
+                           \ V // _ \ |  \| | |_) |   ~
+                            | |/ ___ \| |\  |  __/    ~
+                            |_/_/   \_\_| \_|_|       ~
+                            
+                        Yes, Another Notetaking Plugin
+
+
+
+           Notetaking plugin that supports recurring topics structure 
+                           and customisable syntax.
+
+                           developed by boson joe
+                        https://github.com/boson-joe
+
+
+===============================================================================
+
+To see the license this plugin is distributed on go to |YANPLicense|.
+
+===============================================================================
+
+Please visit the plugin's online wiki to find the User Guide, the Customization
+Guide, the Integration Guide, Contact and other information.
+
+https://github.com/boson-joe/YANP/wiki
+
+===============================================================================
+
