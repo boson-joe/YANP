@@ -8,8 +8,8 @@ Notetaking plugin that supports recurring topics structure and customisable synt
 Table of contents
 -----------------
 
-+ [Description]()
-+ [Navigation Bar]()
++ [Description](https://github.com/boson-joe/YANP#description)
++ [Navigation Bar](https://github.com/boson-joe/YANP#navigation-bar)
 
 -----
 
@@ -50,4 +50,4 @@ Navigation Bar
 
 -----
 
-[Go up]()
+[Go up](https://github.com/boson-joe/YANP#yanp)
